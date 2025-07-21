@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary-light: oklch(0.9432 0.0625 89.19);
+  --color-accent-dark:  oklch(0.7729 0.1067 1.78);
+
+  --color-accent-light:  oklch(0.96 0.06 10);  
+  --color-brown: oklch(0.43 0.02 85); /* Text brown */
+  --color-brown-light: oklch(0.55 0.08 35); 
+  --color-background: oklch(0.98 0.02 8);    /* #FFF6F9 */
+  --color-accent: oklch(0.93 0.06 10);       /* #FFDDEE */
+  --color-primary: oklch(0.66 0.18 85);      /* #C38B00 */
+  --color-pink: oklch(0.9 0.05 10);          /* #F8C5D1 */
+  --color-beige: oklch(0.98 0.02 95);        /* #FFF9F1 */
+  --color-secondary: oklch(0.9747 0.0308 94.89);
+  --color-heading: oklch(0.75 0.15 85);       /* Golden brown for "Our Cute Little Bakery" */
+  --color-heart: oklch(0.75 0.15 85);         /* Heart & highlight color */
+    
+}
