@@ -1,14 +1,14 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import HomePage from './Pages/HomePage';
-import NewCreationsPage from './Components/Page1NewCreations.jsx';
-import BestSellersPage from './Components/Page2BestSellers.jsx';
-import DiscountsPage from './Components/Page4Discounts.jsx';
-import SeasonalPage from './Components/Page3Sweets.jsx';
-import WeddingPage from './Components/Page5Wedding.jsx';
-import BirthdayPage from './Components/Page6Birthday.jsx';
-import SpecialsPage from './Components/Page7Specials.jsx';
-import BeveragesPage from './Components/Page8Beverages.jsx';
+import NewCreationsPage from './Pages/Page1NewCreations.jsx';
+import BestSellersPage from './Pages/Page2BestSellers.jsx';
+import DiscountsPage from './Pages/Page4Discounts.jsx';
+import SeasonalPage from './Pages/Page3Sweets.jsx';
+import WeddingPage from './Pages/Page5Wedding.jsx';
+import BirthdayPage from './Pages/Page6Birthday.jsx';
+import SpecialsPage from './Pages/Page7Specials.jsx';
+import BeveragesPage from './Pages/Page8Beverages.jsx';
 import About from './Components/About.jsx';
 
 const App = () => {
