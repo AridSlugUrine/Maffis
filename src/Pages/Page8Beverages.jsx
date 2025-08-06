@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { motion } from 'framer-motion';
-import Navbar from '../Components/Navbar';
-import Footer from '../Components/Footer';
+import Navbar from '../Components/Navbar.jsx';
+import Footer from '../Components/Footer.jsx';
 import DividerSlowWaves from '../Components/DividerSlowWaves';
 import DividerExtremeWaves from '../Components/DividerExtremeWaves';
 

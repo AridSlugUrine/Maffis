@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { ChevronLeft, ChevronRight } from 'lucide-react';
-import Navbar from '../Components/Navbar';
-import Footer from '../Components/Footer';
+import Navbar from '../Components/Navbar.jsx';
+import Footer from '../Components/Footer.jsx';
 import DividerSlowWaves from '../Components/DividerSlowWaves';
 import DividerExtremeWaves from '../Components/DividerExtremeWaves';
 import DividerSlowWavesP1 from '../Components/DividerSlowWavesP1';
