@@ -1,9 +1,9 @@
 import React from 'react';
-import Navbar from '../Components/Navbar';
-import Footer from '../Components/Footer';
-import Carousel from '../Components/Carousel';
-import Products from '../Components/ProductsHome';
-import Category from '../Components/CategoryHome';
+import Navbar from '../Components/Navbar.jsx';
+import Footer from '../Components/Footer.jsx';
+import Carousel from '../Components/Carousel.jsx';
+import Products from '../Components/ProductsHome.jsx';
+import Category from '../Components/CategoryHome.jsx';
 import { motion } from 'framer-motion';
 import Sopwithus from '../Components/Contact';
 import Dividerhalf from '../Components/Dividerhalf';
